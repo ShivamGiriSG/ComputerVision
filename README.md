@@ -1,2 +1,2 @@
-# ComputerVision
-Here are some of computer vision projects I have coded.
+## ComputerVision
+# Here are some of computer vision projects that I have created.
